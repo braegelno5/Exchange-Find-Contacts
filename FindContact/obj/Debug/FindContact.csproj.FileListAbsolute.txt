@@ -1,0 +1,12 @@
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\FindContact.exe.config
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\obj\Debug\FindContact.csprojResolveAssemblyReference.cache
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\FindContact.exe
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\FindContact.pdb
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\obj\Debug\FindContact.exe
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\obj\Debug\FindContact.pdb
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\EntityFramework.dll
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\EntityFramework.xml
+C:\Users\oanwer\Documents\Visual Studio 2012\Projects\FindContact\FindContact\bin\Debug\EntityFramework.SqlServer.xml
